@@ -1,5 +1,5 @@
 FROM locustio/locust
 
-EXPOSE 8081
+EXPOSE 8090
 
 COPY ./locustfile.py /home
